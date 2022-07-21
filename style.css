@@ -1,0 +1,29 @@
+body {
+    backdrop-filter: blur(cover);
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    border: none;
+    color: whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 200px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+#increment-btn {
+    background-color: orangered;
+}
+
+
+#save-btn {
+    background-color: green;
+}
+
+#reset-btn {
+    background-color: blue;
+}
